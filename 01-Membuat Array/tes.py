@@ -1,5 +1,6 @@
 
 import numpy as np
+import math as mt
 
 print ("\nMembuat Array\n")
 
@@ -7,6 +8,10 @@ print ("\nMembuat Array\n")
 
 a = np.array ([1,2,3,4,5])
 b = np.array ([1.5,4.6,9,3])
+
+#print (mt.pi)
+
+#print ("\n")
 
 print (a)
 print (b)
